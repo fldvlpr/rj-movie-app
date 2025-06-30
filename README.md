@@ -14,6 +14,9 @@ Check out the app deployed on **Netlify**:
 👉 [Visit Demo React App Here](https://tg-react-movie-db-app.netlify.app/)
 <br/>
 
+## 📱 Web Preview
+https://github.com/user-attachments/assets/b4db7a9f-3cdc-4f03-9fc9-d0977417b01b
+
 ## 📦 Tech Stack
 - React
 - Vite Build Tools
